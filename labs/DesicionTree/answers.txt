@@ -1,0 +1,51 @@
+#task 1
+
+1 11 gini best
+9 21 entropy best
+
+#01, best_accuracy: 0.9997429966589566, tree_depth: 3, criterion: entropy, splitter: best
+#02, best_accuracy: 0.7012722646310433, tree_depth: 9, criterion: entropy, splitter: best
+#03, best_accuracy: 1.0, tree_depth: 1, criterion: gini, splitter: best
+#04, best_accuracy: 0.9951304347826087, tree_depth: 5, criterion: entropy, splitter: best
+#05, best_accuracy: 0.9956709956709957, tree_depth: 1, criterion: gini, splitter: best
+#06, best_accuracy: 0.9988962472406181, tree_depth: 3, criterion: entropy, splitter: best
+#07, best_accuracy: 0.9967441860465116, tree_depth: 3, criterion: entropy, splitter: best
+#08, best_accuracy: 0.997920997920998, tree_depth: 2, criterion: gini, splitter: best
+#09, best_accuracy: 0.8490196078431372, tree_depth: 5, criterion: entropy, splitter: best
+#10, best_accuracy: 0.9979879275653923, tree_depth: 4, criterion: entropy, splitter: best
+#11, best_accuracy: 0.999195171026157, tree_depth: 1, criterion: gini, splitter: best
+#12, best_accuracy: 0.8781925343811395, tree_depth: 10, criterion: entropy, splitter: best
+#13, best_accuracy: 0.6440366972477064, tree_depth: 7, criterion: entropy, splitter: best
+#14, best_accuracy: 0.990351215746816, tree_depth: 5, criterion: entropy, splitter: best
+#15, best_accuracy: 1.0, tree_depth: 1, criterion: gini, splitter: best
+#16, best_accuracy: 1.0, tree_depth: 1, criterion: gini, splitter: best
+#17, best_accuracy: 0.8436627582356225, tree_depth: 7, criterion: entropy, splitter: best
+#18, best_accuracy: 0.9426656738644825, tree_depth: 5, criterion: entropy, splitter: best
+#19, best_accuracy: 0.8312078019504876, tree_depth: 7, criterion: entropy, splitter: best
+#20, best_accuracy: 0.9687004754358162, tree_depth: 7, criterion: gini, splitter: best
+#21, best_accuracy: 0.8091312618896639, tree_depth: 27, criterion: entropy, splitter: best
+
+
+#task 3 (1000 trees in forest)
+
+#01, acc_train: 1.0, acc_test: 0.9982009766126959
+#02, acc_train: 1.0, acc_test: 0.6096692111959288
+#03, acc_train: 1.0, acc_test: 0.9995178399228544
+#04, acc_train: 1.0, acc_test: 0.9846956521739131
+#05, acc_train: 1.0, acc_test: 0.9935064935064936
+#06, acc_train: 1.0, acc_test: 1.0
+#07, acc_train: 1.0, acc_test: 0.9902325581395349
+#08, acc_train: 1.0, acc_test: 0.9708939708939709
+#09, acc_train: 1.0, acc_test: 0.8333333333333334
+#10, acc_train: 1.0, acc_test: 0.9975855130784709
+#11, acc_train: 1.0, acc_test: 0.9983903420523139
+#12, acc_train: 1.0, acc_test: 0.9278697726634858
+#13, acc_train: 1.0, acc_test: 0.5871559633027523
+#14, acc_train: 1.0, acc_test: 0.9687379390196835
+#15, acc_train: 1.0, acc_test: 0.9975975975975976
+#16, acc_train: 1.0, acc_test: 1.0
+#17, acc_train: 1.0, acc_test: 0.7068676716917923
+#18, acc_train: 1.0, acc_test: 0.8600148920327625
+#19, acc_train: 1.0, acc_test: 0.8364591147786947
+#20, acc_train: 1.0, acc_test: 0.9825673534072901
+#21, acc_train: 1.0, acc_test: 0.8522511097019657
